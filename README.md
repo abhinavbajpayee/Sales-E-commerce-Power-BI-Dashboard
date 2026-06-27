@@ -103,7 +103,8 @@ Enable dynamic filtering for enhanced business analysis.
 
 ### 🖥️ Main Dashboard
 
-> *(Insert Dashboard Screenshot Here)*
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/88823a3b-40c6-4311-a5c3-2d4af0729ec7" />
+
 
 ---
 
